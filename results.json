@@ -1,0 +1,696 @@
+[
+  {
+    "student_name": "Timun Yakubu",
+    "Department": "Computer Science",
+    "Level": "Nd 2 / 200 Level",
+    "Matrick_No": "012",
+    "Semesters": [
+      {
+        "name": "First Semester",
+        "Courses": [
+          { "code": "COM 211", "title": "Java Programming", "unit": 3, "grade": "A" },
+          { "code": "COM 212", "title": "Database Systems", "unit": 3, "grade": "B" },
+          { "code": "MTH 211", "title": "Statistics I", "unit": 2, "grade": "F" }
+        ]
+      },
+      {
+        "name": "Second Semester",
+        "Courses": [
+          { "code": "COM 221", "title": "PHP Programming", "unit": 3, "grade": "B" },
+          { "code": "COM 222", "title": "Networking", "unit": 3, "grade": "A" },
+          { "code": "MTH 221", "title": "Statistics II", "unit": 2, "grade": "C" }
+        ]
+      }
+    ]
+  },
+  {
+    "student_name": "Solomom makadi",
+    "Department": "Computer Science",
+    "Level": "Nd 2 / 200 Level",
+    "Matrick_No": "051",
+    "Semesters": [
+      {
+        "name": "First Semester",
+        "Courses": [
+          { "code": "COM 211", "title": "Java Programming", "unit": 3, "grade": "A" },
+          { "code": "COM 212", "title": "Database Systems", "unit": 3, "grade": "A" }
+        ]
+      }
+    ]
+  },
+  {
+    "student_name": "Yusuf Bello",
+    "Department": "Computer Science",
+    "Level": "Nd 2 / 200 Level",
+    "Matrick_No": "001",
+    "Semesters": [
+      {
+        "name": "First Semester",
+        "Courses": [
+          { "code": "COM 212", "title": "Database Systems", "unit": 3, "grade": "F" },
+          { "code": "MTH 211", "title": "Statistics I", "unit": 2, "grade": "E" },
+          { "code": "GNS 201", "title": "Use of English", "unit": 2, "grade": "E" },
+          { "code": "COM 211", "title": "Java Programming", "unit": 3, "grade": "C" }
+        ]
+      }
+    ]
+  },
+  {
+    "student_name": "Ibrahim Umar",
+    "Department": "Computer Science",
+    "Level": "Nd 2 / 200 Level",
+    "Matrick_No": "002",
+    "Semesters": [
+      {
+        "name": "First Semester",
+        "Courses": [
+          { "code": "MTH 211", "title": "Statistics I", "unit": 2, "grade": "F" },
+          { "code": "COM 212", "title": "Database Systems", "unit": 3, "grade": "F" },
+          { "code": "GNS 201", "title": "Use of English", "unit": 2, "grade": "A" }
+        ]
+      }
+    ]
+  },
+  {
+    "student_name": "Fatima Umar",
+    "Department": "Computer Science",
+    "Level": "Nd 2 / 200 Level",
+    "Matrick_No": "003",
+    "Semesters": [
+      {
+        "name": "First Semester",
+        "Courses": [
+          { "code": "COM 211", "title": "Java Programming", "unit": 3, "grade": "C" },
+          { "code": "COM 212", "title": "Database Systems", "unit": 3, "grade": "A" },
+          { "code": "MTH 211", "title": "Statistics I", "unit": 2, "grade": "F" }
+        ]
+      },
+      {
+        "name": "Second Semester",
+        "Courses": [
+          { "code": "COM 222", "title": "Networking", "unit": 3, "grade": "F" },
+          { "code": "COM 223", "title": "Data Structures", "unit": 3, "grade": "F" },
+          { "code": "MTH 221", "title": "Statistics II", "unit": 2, "grade": "C" },
+          { "code": "COM 221", "title": "PHP Programming", "unit": 3, "grade": "C" }
+        ]
+      }
+    ]
+  },
+  {
+    "student_name": "Emeka Umar",
+    "Department": "Computer Science",
+    "Level": "Nd 2 / 200 Level",
+    "Matrick_No": "004",
+    "Semesters": [
+      {
+        "name": "First Semester",
+        "Courses": [
+          { "code": "COM 212", "title": "Database Systems", "unit": 3, "grade": "D" },
+          { "code": "COM 211", "title": "Java Programming", "unit": 3, "grade": "D" }
+        ]
+      },
+      {
+        "name": "Second Semester",
+        "Courses": [
+          { "code": "COM 223", "title": "Data Structures", "unit": 3, "grade": "C" },
+          { "code": "COM 222", "title": "Networking", "unit": 3, "grade": "A" },
+          { "code": "COM 221", "title": "PHP Programming", "unit": 3, "grade": "A" },
+          { "code": "MTH 221", "title": "Statistics II", "unit": 2, "grade": "D" }
+        ]
+      }
+    ]
+  },
+  {
+    "student_name": "Zainab Suleiman",
+    "Department": "Computer Science",
+    "Level": "Nd 2 / 200 Level",
+    "Matrick_No": "005",
+    "Semesters": [
+      {
+        "name": "First Semester",
+        "Courses": [
+          { "code": "COM 211", "title": "Java Programming", "unit": 3, "grade": "E" },
+          { "code": "COM 212", "title": "Database Systems", "unit": 3, "grade": "D" },
+          { "code": "GNS 201", "title": "Use of English", "unit": 2, "grade": "D" },
+          { "code": "MTH 211", "title": "Statistics I", "unit": 2, "grade": "B" }
+        ]
+      },
+      {
+        "name": "Second Semester",
+        "Courses": [
+          { "code": "COM 223", "title": "Data Structures", "unit": 3, "grade": "B" },
+          { "code": "MTH 221", "title": "Statistics II", "unit": 2, "grade": "A" },
+          { "code": "COM 222", "title": "Networking", "unit": 3, "grade": "B" },
+          { "code": "COM 221", "title": "PHP Programming", "unit": 3, "grade": "B" }
+        ]
+      }
+    ]
+  },
+  {
+    "student_name": "Mariam Okafor",
+    "Department": "Computer Science",
+    "Level": "Nd 2 / 200 Level",
+    "Matrick_No": "006",
+    "Semesters": [
+      {
+        "name": "First Semester",
+        "Courses": [
+          { "code": "GNS 201", "title": "Use of English", "unit": 2, "grade": "E" },
+          { "code": "COM 212", "title": "Database Systems", "unit": 3, "grade": "A" }
+        ]
+      },
+      {
+        "name": "Second Semester",
+        "Courses": [
+          { "code": "COM 221", "title": "PHP Programming", "unit": 3, "grade": "D" },
+          { "code": "COM 223", "title": "Data Structures", "unit": 3, "grade": "C" }
+        ]
+      }
+    ]
+  },
+  {
+    "student_name": "Mariam Nwachukwu",
+    "Department": "Computer Science",
+    "Level": "Nd 2 / 200 Level",
+    "Matrick_No": "007",
+    "Semesters": [
+      {
+        "name": "First Semester",
+        "Courses": [
+          { "code": "COM 211", "title": "Java Programming", "unit": 3, "grade": "C" },
+          { "code": "GNS 201", "title": "Use of English", "unit": 2, "grade": "A" },
+          { "code": "COM 212", "title": "Database Systems", "unit": 3, "grade": "F" }
+        ]
+      }
+    ]
+  },
+  {
+    "student_name": "Hadiza Mohammed",
+    "Department": "Computer Science",
+    "Level": "Nd 2 / 200 Level",
+    "Matrick_No": "008",
+    "Semesters": [
+      {
+        "name": "First Semester",
+        "Courses": [
+          { "code": "GNS 201", "title": "Use of English", "unit": 2, "grade": "A" },
+          { "code": "COM 211", "title": "Java Programming", "unit": 3, "grade": "F" },
+          { "code": "MTH 211", "title": "Statistics I", "unit": 2, "grade": "B" },
+          { "code": "COM 212", "title": "Database Systems", "unit": 3, "grade": "C" }
+        ]
+      },
+      {
+        "name": "Second Semester",
+        "Courses": [
+          { "code": "COM 221", "title": "PHP Programming", "unit": 3, "grade": "F" },
+          { "code": "COM 223", "title": "Data Structures", "unit": 3, "grade": "D" },
+          { "code": "COM 222", "title": "Networking", "unit": 3, "grade": "B" }
+        ]
+      }
+    ]
+  },
+  {
+    "student_name": "Yusuf Umar",
+    "Department": "Computer Science",
+    "Level": "Nd 2 / 200 Level",
+    "Matrick_No": "009",
+    "Semesters": [
+      {
+        "name": "First Semester",
+        "Courses": [
+          { "code": "COM 211", "title": "Java Programming", "unit": 3, "grade": "E" },
+          { "code": "COM 212", "title": "Database Systems", "unit": 3, "grade": "C" },
+          { "code": "GNS 201", "title": "Use of English", "unit": 2, "grade": "C" }
+        ]
+      },
+      {
+        "name": "Second Semester",
+        "Courses": [
+          { "code": "COM 223", "title": "Data Structures", "unit": 3, "grade": "A" },
+          { "code": "MTH 221", "title": "Statistics II", "unit": 2, "grade": "C" },
+          { "code": "COM 222", "title": "Networking", "unit": 3, "grade": "D" },
+          { "code": "COM 221", "title": "PHP Programming", "unit": 3, "grade": "E" }
+        ]
+      }
+    ]
+  },
+  {
+    "student_name": "Mariam Afolabi",
+    "Department": "Computer Science",
+    "Level": "Nd 2 / 200 Level",
+    "Matrick_No": "010",
+    "Semesters": [
+      {
+        "name": "First Semester",
+        "Courses": [
+          { "code": "COM 211", "title": "Java Programming", "unit": 3, "grade": "F" },
+          { "code": "COM 212", "title": "Database Systems", "unit": 3, "grade": "A" },
+          { "code": "GNS 201", "title": "Use of English", "unit": 2, "grade": "F" }
+        ]
+      },
+      {
+        "name": "Second Semester",
+        "Courses": [
+          { "code": "COM 223", "title": "Data Structures", "unit": 3, "grade": "C" },
+          { "code": "MTH 221", "title": "Statistics II", "unit": 2, "grade": "B" },
+          { "code": "COM 222", "title": "Networking", "unit": 3, "grade": "E" },
+          { "code": "COM 221", "title": "PHP Programming", "unit": 3, "grade": "F" }
+        ]
+      }
+    ]
+  },
+  {
+    "student_name": "Emeka Umar",
+    "Department": "Computer Science",
+    "Level": "Nd 2 / 200 Level",
+    "Matrick_No": "011",
+    "Semesters": [
+      {
+        "name": "First Semester",
+        "Courses": [
+          { "code": "COM 212", "title": "Database Systems", "unit": 3, "grade": "F" },
+          { "code": "COM 211", "title": "Java Programming", "unit": 3, "grade": "E" },
+          { "code": "MTH 211", "title": "Statistics I", "unit": 2, "grade": "C" }
+        ]
+      },
+      {
+        "name": "Second Semester",
+        "Courses": [
+          { "code": "COM 223", "title": "Data Structures", "unit": 3, "grade": "D" },
+          { "code": "COM 222", "title": "Networking", "unit": 3, "grade": "F" }
+        ]
+      }
+    ]
+  },
+  {
+    "student_name": "Fatima Umar",
+    "Department": "Computer Science",
+    "Level": "Nd 2 / 200 Level",
+    "Matrick_No": "012",
+    "Semesters": [
+      {
+        "name": "First Semester",
+        "Courses": [
+          { "code": "COM 211", "title": "Java Programming", "unit": 3, "grade": "D" },
+          { "code": "COM 212", "title": "Database Systems", "unit": 3, "grade": "B" },
+          { "code": "MTH 211", "title": "Statistics I", "unit": 2, "grade": "B" },
+          { "code": "GNS 201", "title": "Use of English", "unit": 2, "grade": "F" }
+        ]
+      }
+    ]
+  },
+  {
+    "student_name": "Aisha Yakubu",
+    "Department": "Computer Science",
+    "Level": "Nd 2 / 200 Level",
+    "Matrick_No": "013",
+    "Semesters": [
+      {
+        "name": "First Semester",
+        "Courses": [
+          { "code": "MTH 211", "title": "Statistics I", "unit": 2, "grade": "B" },
+          { "code": "GNS 201", "title": "Use of English", "unit": 2, "grade": "D" },
+          { "code": "COM 211", "title": "Java Programming", "unit": 3, "grade": "D" }
+        ]
+      },
+      {
+        "name": "Second Semester",
+        "Courses": [
+          { "code": "COM 221", "title": "PHP Programming", "unit": 3, "grade": "E" },
+          { "code": "MTH 221", "title": "Statistics II", "unit": 2, "grade": "C" },
+          { "code": "COM 222", "title": "Networking", "unit": 3, "grade": "C" },
+          { "code": "COM 223", "title": "Data Structures", "unit": 3, "grade": "E" }
+        ]
+      }
+    ]
+  },
+  {
+    "student_name": "Hadiza Umar",
+    "Department": "Computer Science",
+    "Level": "Nd 2 / 200 Level",
+    "Matrick_No": "014",
+    "Semesters": [
+      {
+        "name": "First Semester",
+        "Courses": [
+          { "code": "MTH 211", "title": "Statistics I", "unit": 2, "grade": "E" },
+          { "code": "COM 211", "title": "Java Programming", "unit": 3, "grade": "A" },
+          { "code": "GNS 201", "title": "Use of English", "unit": 2, "grade": "A" }
+        ]
+      }
+    ]
+  },
+  {
+    "student_name": "Blessing Chukwu",
+    "Department": "Computer Science",
+    "Level": "Nd 2 / 200 Level",
+    "Matrick_No": "015",
+    "Semesters": [
+      {
+        "name": "First Semester",
+        "Courses": [
+          { "code": "GNS 201", "title": "Use of English", "unit": 2, "grade": "C" },
+          { "code": "MTH 211", "title": "Statistics I", "unit": 2, "grade": "F" },
+          { "code": "COM 211", "title": "Java Programming", "unit": 3, "grade": "B" }
+        ]
+      },
+      {
+        "name": "Second Semester",
+        "Courses": [
+          { "code": "MTH 221", "title": "Statistics II", "unit": 2, "grade": "E" },
+          { "code": "COM 222", "title": "Networking", "unit": 3, "grade": "F" },
+          { "code": "COM 223", "title": "Data Structures", "unit": 3, "grade": "F" }
+        ]
+      }
+    ]
+  },
+  {
+    "student_name": "Ibrahim Eze",
+    "Department": "Computer Science",
+    "Level": "Nd 2 / 200 Level",
+    "Matrick_No": "016",
+    "Semesters": [
+      {
+        "name": "First Semester",
+        "Courses": [
+          { "code": "MTH 211", "title": "Statistics I", "unit": 2, "grade": "E" },
+          { "code": "COM 211", "title": "Java Programming", "unit": 3, "grade": "A" },
+          { "code": "COM 212", "title": "Database Systems", "unit": 3, "grade": "C" }
+        ]
+      },
+      {
+        "name": "Second Semester",
+        "Courses": [
+          { "code": "COM 221", "title": "PHP Programming", "unit": 3, "grade": "C" },
+          { "code": "MTH 221", "title": "Statistics II", "unit": 2, "grade": "A" }
+        ]
+      }
+    ]
+  },
+  {
+    "student_name": "Blessing Suleiman",
+    "Department": "Computer Science",
+    "Level": "Nd 2 / 200 Level",
+    "Matrick_No": "017",
+    "Semesters": [
+      {
+        "name": "First Semester",
+        "Courses": [
+          { "code": "COM 212", "title": "Database Systems", "unit": 3, "grade": "F" },
+          { "code": "COM 211", "title": "Java Programming", "unit": 3, "grade": "A" }
+        ]
+      },
+      {
+        "name": "Second Semester",
+        "Courses": [
+          { "code": "COM 222", "title": "Networking", "unit": 3, "grade": "F" },
+          { "code": "COM 221", "title": "PHP Programming", "unit": 3, "grade": "D" },
+          { "code": "MTH 221", "title": "Statistics II", "unit": 2, "grade": "B" },
+          { "code": "COM 223", "title": "Data Structures", "unit": 3, "grade": "B" }
+        ]
+      }
+    ]
+  },
+  {
+    "student_name": "Ngozi Yakubu",
+    "Department": "Computer Science",
+    "Level": "Nd 2 / 200 Level",
+    "Matrick_No": "018",
+    "Semesters": [
+      {
+        "name": "First Semester",
+        "Courses": [
+          { "code": "MTH 211", "title": "Statistics I", "unit": 2, "grade": "F" },
+          { "code": "GNS 201", "title": "Use of English", "unit": 2, "grade": "E" },
+          { "code": "COM 212", "title": "Database Systems", "unit": 3, "grade": "E" },
+          { "code": "COM 211", "title": "Java Programming", "unit": 3, "grade": "A" }
+        ]
+      },
+      {
+        "name": "Second Semester",
+        "Courses": [
+          { "code": "COM 221", "title": "PHP Programming", "unit": 3, "grade": "E" },
+          { "code": "COM 223", "title": "Data Structures", "unit": 3, "grade": "E" },
+          { "code": "MTH 221", "title": "Statistics II", "unit": 2, "grade": "F" }
+        ]
+      }
+    ]
+  },
+  {
+    "student_name": "Mariam Afolabi",
+    "Department": "Computer Science",
+    "Level": "Nd 2 / 200 Level",
+    "Matrick_No": "019",
+    "Semesters": [
+      {
+        "name": "First Semester",
+        "Courses": [
+          { "code": "COM 211", "title": "Java Programming", "unit": 3, "grade": "E" },
+          { "code": "COM 212", "title": "Database Systems", "unit": 3, "grade": "F" },
+          { "code": "GNS 201", "title": "Use of English", "unit": 2, "grade": "F" }
+        ]
+      }
+    ]
+  },
+  {
+    "student_name": "Abdullahi Nwachukwu",
+    "Department": "Computer Science",
+    "Level": "Nd 2 / 200 Level",
+    "Matrick_No": "020",
+    "Semesters": [
+      {
+        "name": "First Semester",
+        "Courses": [
+          { "code": "GNS 201", "title": "Use of English", "unit": 2, "grade": "F" },
+          { "code": "COM 211", "title": "Java Programming", "unit": 3, "grade": "B" },
+          { "code": "MTH 211", "title": "Statistics I", "unit": 2, "grade": "D" }
+        ]
+      },
+      {
+        "name": "Second Semester",
+        "Courses": [
+          { "code": "COM 222", "title": "Networking", "unit": 3, "grade": "F" },
+          { "code": "COM 221", "title": "PHP Programming", "unit": 3, "grade": "D" },
+          { "code": "COM 223", "title": "Data Structures", "unit": 3, "grade": "C" },
+          { "code": "MTH 221", "title": "Statistics II", "unit": 2, "grade": "C" }
+        ]
+      }
+    ]
+  },
+  {
+    "student_name": "Yusuf Okoro",
+    "Department": "Computer Science",
+    "Level": "Nd 2 / 200 Level",
+    "Matrick_No": "021",
+    "Semesters": [
+      {
+        "name": "First Semester",
+        "Courses": [
+          { "code": "COM 211", "title": "Java Programming", "unit": 3, "grade": "C" },
+          { "code": "COM 212", "title": "Database Systems", "unit": 3, "grade": "F" }
+        ]
+      },
+      {
+        "name": "Second Semester",
+        "Courses": [
+          { "code": "COM 223", "title": "Data Structures", "unit": 3, "grade": "B" },
+          { "code": "MTH 221", "title": "Statistics II", "unit": 2, "grade": "D" },
+          { "code": "COM 222", "title": "Networking", "unit": 3, "grade": "A" },
+          { "code": "COM 221", "title": "PHP Programming", "unit": 3, "grade": "A" }
+        ]
+      }
+    ]
+  },
+  {
+    "student_name": "Ngozi Chukwu",
+    "Department": "Computer Science",
+    "Level": "Nd 2 / 200 Level",
+    "Matrick_No": "022",
+    "Semesters": [
+      {
+        "name": "First Semester",
+        "Courses": [
+          { "code": "GNS 201", "title": "Use of English", "unit": 2, "grade": "A" },
+          { "code": "MTH 211", "title": "Statistics I", "unit": 2, "grade": "A" },
+          { "code": "COM 211", "title": "Java Programming", "unit": 3, "grade": "D" },
+          { "code": "COM 212", "title": "Database Systems", "unit": 3, "grade": "D" }
+        ]
+      }
+    ]
+  },
+  {
+    "student_name": "Ngozi Okoro",
+    "Department": "Computer Science",
+    "Level": "Nd 2 / 200 Level",
+    "Matrick_No": "023",
+    "Semesters": [
+      {
+        "name": "First Semester",
+        "Courses": [
+          { "code": "COM 211", "title": "Java Programming", "unit": 3, "grade": "D" },
+          { "code": "GNS 201", "title": "Use of English", "unit": 2, "grade": "D" },
+          { "code": "COM 212", "title": "Database Systems", "unit": 3, "grade": "E" },
+          { "code": "MTH 211", "title": "Statistics I", "unit": 2, "grade": "F" }
+        ]
+      },
+      {
+        "name": "Second Semester",
+        "Courses": [
+          { "code": "MTH 221", "title": "Statistics II", "unit": 2, "grade": "D" },
+          { "code": "COM 223", "title": "Data Structures", "unit": 3, "grade": "B" },
+          { "code": "COM 221", "title": "PHP Programming", "unit": 3, "grade": "C" }
+        ]
+      }
+    ]
+  },
+  {
+    "student_name": "Mariam Mohammed",
+    "Department": "Computer Science",
+    "Level": "Nd 2 / 200 Level",
+    "Matrick_No": "024",
+    "Semesters": [
+      {
+        "name": "First Semester",
+        "Courses": [
+          { "code": "COM 211", "title": "Java Programming", "unit": 3, "grade": "C" },
+          { "code": "COM 212", "title": "Database Systems", "unit": 3, "grade": "A" },
+          { "code": "MTH 211", "title": "Statistics I", "unit": 2, "grade": "A" },
+          { "code": "GNS 201", "title": "Use of English", "unit": 2, "grade": "B" }
+        ]
+      },
+      {
+        "name": "Second Semester",
+        "Courses": [
+          { "code": "COM 222", "title": "Networking", "unit": 3, "grade": "D" },
+          { "code": "MTH 221", "title": "Statistics II", "unit": 2, "grade": "C" }
+        ]
+      }
+    ]
+  },
+  {
+    "student_name": "Yusuf Okoro",
+    "Department": "Computer Science",
+    "Level": "Nd 2 / 200 Level",
+    "Matrick_No": "025",
+    "Semesters": [
+      {
+        "name": "First Semester",
+        "Courses": [
+          { "code": "COM 212", "title": "Database Systems", "unit": 3, "grade": "D" },
+          { "code": "MTH 211", "title": "Statistics I", "unit": 2, "grade": "F" }
+        ]
+      },
+      {
+        "name": "Second Semester",
+        "Courses": [
+          { "code": "MTH 221", "title": "Statistics II", "unit": 2, "grade": "A" },
+          { "code": "COM 223", "title": "Data Structures", "unit": 3, "grade": "E" },
+          { "code": "COM 221", "title": "PHP Programming", "unit": 3, "grade": "C" }
+        ]
+      }
+    ]
+  },
+  {
+    "student_name": "Oluwaseun Suleiman",
+    "Department": "Computer Science",
+    "Level": "Nd 2 / 200 Level",
+    "Matrick_No": "026",
+    "Semesters": [
+      {
+        "name": "First Semester",
+        "Courses": [
+          { "code": "COM 211", "title": "Java Programming", "unit": 3, "grade": "E" },
+          { "code": "GNS 201", "title": "Use of English", "unit": 2, "grade": "B" }
+        ]
+      },
+      {
+        "name": "Second Semester",
+        "Courses": [
+          { "code": "COM 223", "title": "Data Structures", "unit": 3, "grade": "E" },
+          { "code": "MTH 221", "title": "Statistics II", "unit": 2, "grade": "E" },
+          { "code": "COM 221", "title": "PHP Programming", "unit": 3, "grade": "A" }
+        ]
+      }
+    ]
+  },
+  {
+    "student_name": "Kingsley Yakubu",
+    "Department": "Computer Science",
+    "Level": "Nd 2 / 200 Level",
+    "Matrick_No": "027",
+    "Semesters": [
+      {
+        "name": "First Semester",
+        "Courses": [
+          { "code": "GNS 201", "title": "Use of English", "unit": 2, "grade": "E" },
+          { "code": "COM 211", "title": "Java Programming", "unit": 3, "grade": "A" },
+          { "code": "COM 212", "title": "Database Systems", "unit": 3, "grade": "E" }
+        ]
+      }
+    ]
+  },
+  {
+    "student_name": "Ngozi Mohammed",
+    "Department": "Computer Science",
+    "Level": "Nd 2 / 200 Level",
+    "Matrick_No": "028",
+    "Semesters": [
+      {
+        "name": "First Semester",
+        "Courses": [
+          { "code": "COM 211", "title": "Java Programming", "unit": 3, "grade": "C" },
+          { "code": "MTH 211", "title": "Statistics I", "unit": 2, "grade": "F" }
+        ]
+      },
+      {
+        "name": "Second Semester",
+        "Courses": [
+          { "code": "COM 221", "title": "PHP Programming", "unit": 3, "grade": "A" },
+          { "code": "COM 222", "title": "Networking", "unit": 3, "grade": "F" }
+        ]
+      }
+    ]
+  },
+  {
+    "student_name": "Kingsley Bello",
+    "Department": "Computer Science",
+    "Level": "Nd 2 / 200 Level",
+    "Matrick_No": "029",
+    "Semesters": [
+      {
+        "name": "First Semester",
+        "Courses": [
+          { "code": "MTH 211", "title": "Statistics I", "unit": 2, "grade": "B" },
+          { "code": "GNS 201", "title": "Use of English", "unit": 2, "grade": "D" },
+          { "code": "COM 211", "title": "Java Programming", "unit": 3, "grade": "D" },
+          { "code": "COM 212", "title": "Database Systems", "unit": 3, "grade": "B" }
+        ]
+      },
+      {
+        "name": "Second Semester",
+        "Courses": [
+          { "code": "COM 221", "title": "PHP Programming", "unit": 3, "grade": "D" },
+          { "code": "COM 223", "title": "Data Structures", "unit": 3, "grade": "B" },
+          { "code": "COM 222", "title": "Networking", "unit": 3, "grade": "D" },
+          { "code": "MTH 221", "title": "Statistics II", "unit": 2, "grade": "B" }
+        ]
+      }
+    ]
+  },
+  {
+    "student_name": "Musa Okafor",
+    "Department": "Computer Science",
+    "Level": "Nd 2 / 200 Level",
+    "Matrick_No": "030",
+    "Semesters": [
+      {
+        "name": "First Semester",
+        "Courses": [
+          { "code": "COM 211", "title": "Java Programming", "unit": 3, "grade": "B" },
+          { "code": "COM 212", "title": "Database Systems", "unit": 3, "grade": "C" },
+          { "code": "GNS 201", "title": "Use of English", "unit": 2, "grade": "B" }
+        ]
+      }
+    ]
+  }
+]
